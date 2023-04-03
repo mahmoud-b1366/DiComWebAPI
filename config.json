@@ -1,0 +1,5 @@
+{
+    "ip": "",
+    "port": 9003,
+    "logPath": "./log.txt"
+}
